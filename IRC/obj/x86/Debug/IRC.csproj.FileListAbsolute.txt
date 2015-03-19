@@ -1,0 +1,4 @@
+C:\Users\frankhuang\Desktop\test\IRC\IRC\IRC\bin\Debug\IRC.exe
+C:\Users\frankhuang\Desktop\test\IRC\IRC\IRC\bin\Debug\IRC.pdb
+C:\Users\frankhuang\Desktop\test\IRC\IRC\IRC\obj\x86\Debug\IRC.exe
+C:\Users\frankhuang\Desktop\test\IRC\IRC\IRC\obj\x86\Debug\IRC.pdb
